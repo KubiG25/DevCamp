@@ -15,7 +15,7 @@
 }
 
 header {
-    height: 655px;
+    height: 755px;
     background-image: url("assets/header.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -140,6 +140,17 @@ body {
     width: 147px;
     object-fit: cover;
     object-position: center;
+}
+
+.plugin-button {
+    display: inline-block;
+    background: #92929275;
+    color: #000000;
+    border: 1px solid #07070748;
+    margin: 5px;
+    border-radius: 5%;
+    padding: 10px 30px;
+    text-decoration: none;
 }
 
 footer {
